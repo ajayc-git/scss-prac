@@ -1,0 +1,5 @@
+$color: #e5e5e5;
+
+body {
+  background: $color;
+}
